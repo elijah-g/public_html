@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>WP Brand Guideline</title>
+  <link href="https://fonts.googleapis.com/css?family=Fontdiner+Swanky|Graduate|Oregano" rel="stylesheet">
+  <style>
+    /* This is an example of an embedded style sheet. You do not need to move these styles to an external stylesheet, only the styles you write for your  assignment. */
+    
+    body {
+      margin: 0px 30px;
+    }
+    section {
+      border-top: 4px ridge #CCC;
+      padding: 0px 0px 10px 10px;
+    }
+    /* This styles each color box in the palette */
+    #palette span {
+      display:inline-block;
+      height:50px;
+      width:50px;
+      box-shadow: 1px 1px 2px 1px #333;
+      margin: 5px;
+    }
+    
+    /* Each palette colors */
+    .black  { background-color: black;}
+    .white  { background-color: white;} 
+    .hue1-1 { background-color: #3585b7;}
+    .hue1-2 { background-color: #000043;}
+    .hue1-3 { background-color: #0966ac;}
+    .hue2-1 { background-color: #99b8d4;}
+    .hue2-2 { background-color: #2F2F4F;}
+    .hue3   { background-color: #bfccde;}
+    
+    /* Background Images */
+    #imagery {
+    }
+    #imagery img {
+      box-shadow: 1px 1px 2px 1px #333;
+      margin: 5px;
+      height:100px;
+      vertical-align: top;
+    }
+    #imagery img:hover {
+      height:initial;
+    }
+    
+    #fontset h1,
+    #fontset h2,
+    #fontset h3
+    {
+      font-family: 'Josefin Sans', sans-serif;
+    }
+    #fontset h1 {
+      font-size: 4em;
+    }
+    #fontset h2 {
+      font-size: 3.3em;
+    }
+    #fontset h3 {
+      font-size: 2.5em;
+    }
+
+    #fontset .nav
+    {
+      font-family: 'Josefin Slab', serif;
+      font-size: 1.7em;
+    }
+    #fontset .main
+    {
+      font-family: 'Itim', cursive;
+      font-size: 1.5em;
+    }
+    
+  </style>
+</head>
+
+<body>
+  <header>
+    <h1>Brand Guideline Document</h1>
+    <p><strong>Author:</strong>Elijah Glass (s3679959)</p>
+  </header>
+  <main>
+    <section>
+      <h2>MoonBoot Tech</h2>
+      <p>MoonBoot Tech is a tech company servicing small business and individuals in the South West, striving to provide quality service at a competetive price.</p>
+      <p>Providing the following Services:</p>
+      <ol>
+        <li><b>Website Development</b>
+          <ol type='a'>
+            <li>Single Page</li>
+            <li>Multiple Pages</li>
+          </ol>
+        </li>
+        <li><b>Social Media Management</b>
+          <ol type='a'>
+            <li>Facebook</li>
+            <li>Facebook &amp; Twitter </li>
+          </ol>
+        </li>
+      </ol>
+    </section>
+    <section>
+      <h2>Color Palette</h2>
+      <p>Put your color choices here. As a guide, colors should match with the existing brand of the business or organisation your have selected. Example   colors are below, styles can be found in the embedded style sheet.</p>
+      <div id='palette'>
+        <span class='black'></span>
+        <span class='white'></span><br>
+        <span class='hue1-1'></span>
+        <span class='hue1-2'></span><br>
+        <span class='hue1-3'></span>
+        <span class='hue2-1'></span><br>
+        <span class='hue2-2'></span>
+        <span class='hue3'></span>
+      </div>
+    </section>
+    <section>
+      <h2>Images and Background Images</h2>
+      <p>Website paragraph text should be mixed with images and the overall look of a website can be enhanced with background images, be they full size images or smaller "tiling" images. Update the links of these sample images once you have uploaded images to your img directory.</p>
+      <div id='imagery'>
+        <img src='../img/logo.png' alt='Company Logo'>
+        <img src='../img/cover.png' alt='Banner'>
+        <img src='../img/1.jpg' alt='Background'>
+      </div>
+    </section>
+    <section>
+      <h2>Font Set</h2>
+      <p>Use webfonts (eg Google Fonts) or the font-face rule to import fonts into your pages rather than using generic fonts such as Arial and Times-New-Roman. Ideally the headings should be more "fancy" whereas blocks of paragraph text should be more "readable".</p>
+      <div id='fontset'>
+        <h1>Heading 1</h1>
+        <h2>Heading 2</h2>
+        <h3>Heading 3</h3>
+        <p class='nav'>Navigation links</p>
+        <p class='main'>Main text: ABCDE abcde 0-9</p>
+      </div>
+    </section>
+
+  </main>
+</body>
+
+</html>
