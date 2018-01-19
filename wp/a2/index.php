@@ -3,11 +3,11 @@
 <title>MoonBoot</title>
 <header>
    
-    <link rel="icon" href="/wp/img/logo.png">
+    <link rel="icon" href="/~s3679959/wp/img/logo.png">
     <link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css'>
     <link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css'>
 
-    <link type="text/css" rel='stylesheet' href="/moonboot.css">
+    <link type="text/css" rel='stylesheet' href="/~s3679959/moonboot.css">
 
 </header>
     <link href="https://fonts.googleapis.com/css?family=Josefin+Sans" rel="stylesheet">
@@ -27,7 +27,7 @@
                     <ul class="nav navbar-nav navbar-left">
                         <li class="active"><a href="#">HOME</a></li>
                         <li><a href="/~s3679959/wp/a2/services.php">SERVICES</a></li>
-                        <li><a href="~/wp/a2/login.php">LOGIN</a></li>
+                        <li><a href="/~s3679959/wp/a2/login.php">LOGIN</a></li>
                     </ul>
                 </div>
             </div>
@@ -36,7 +36,7 @@
             <!--Banner Container-->
             <div class="bg-banner container-fluid">
                 <div class="centerblock">
-                    <img id="bannerimg" src="/wp/img/moonbootwriting.png">
+                    <img id="bannerimg" src="/~s3679959/wp/img/moonbootwriting.png">
                     <i id='headerquote'>"To boot your business to the next level, call today"</i>
                 </div>
             </div>
