@@ -59,7 +59,7 @@
                     <p class="main">When your precious iPhone becomes comprimised <b>Moonboot</b> will have you back on your feet in no time. It's not plausable to live without a smart phone not to mention uncool. When life gives you lemons give Moonboot a call and we'll gladly make you some lemonade.</p>
                 </div>
                 <div class="socialmediamanagement">
-                    <center><img src="/wp/img/social-media-management.jpg">
+                    <center><img src="/~s3679959/wp/img/social-media-management.jpg">
                         <h3>Social Media Management</h3>
                     </center>
                     <p class="main"><i>Don't be stuck in the past</i> help your precious business excel with our expert advice and service. <b>MoonBoot</b> offers years of experience excelling in the new age of marketing. It is essential to have a social media presence to continue to grow your client base and leave the competition in the dust. Our promise is that your business will grow and your marketing cost shrink</p>
