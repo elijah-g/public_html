@@ -1,0 +1,375 @@
+@import url('https://fonts.googleapis.com/css?family=Yellowtail');
+
+#fontset h1,
+    #fontset h2,
+    #fontset h3
+    {
+      font-family: 'Josefin Sans', sans-serif;
+    }
+    #fontset h1 {
+      font-size: 4em;
+    }
+    h2 {
+      font-size: 2.3em;
+        font-family: "Josefin Sans" ,sans-serif;        
+    }
+    h3 {
+      font-size: 2em;
+      font-family: 'Josefin Sans' , sans-serif;
+    }
+
+    #fontset .nav
+    {
+      font-family: 'Josefin Slab', serif;
+      font-size: 1.7em;
+    }
+    .main
+    {
+      font-family: 'Itim', cursive;
+      font-size: 1.5em;
+      text-align: left;
+    }
+    
+.main p{
+    float:left;
+}
+
+
+#headerquote
+{
+    font-family: 'Yellowtail', cursive;
+    font-size: 2.5em;
+    color:#bfccde;
+    line-height:90%;
+    float:right;
+    width:40%;
+    margin-bottom: 20%;
+    margin-top: 10%
+    
+}
+
+.black  { background-color: black;}
+.white  { background-color: white;} 
+.hue1-1 { background-color: #3585b7;}
+.hue1-2 { background-color: #000043;}
+.hue1-3 { background-color: #0966ac;}
+.hue2-1 { background-color: #99b8d4;}
+.hue2-2 { background-color: #2F2F4F;}
+.hue3   { background-color: #bfccde;}
+
+.centerblock {
+    max-width: 1000px;
+    margin-right:auto;
+    margin-left: auto;
+    box-shadow: 0 0 10px #000;
+    border-radius: 10px;
+}
+
+.login{
+    height: 500px;
+    max-width: 500px;
+    margin-right:auto;
+    margin-left:auto;
+    box-shadow: 0 0 10px #000;
+    border-radius: 10px;
+}
+
+#email{
+    margin-bottom: 50px;
+    width:100%;
+}
+
+#password{
+    margin-bottom: 50px;
+    width:100%;
+}
+
+.header img {
+  height:auto;
+  width:auto;
+  max-height:200px;
+  max-width:auto;
+  border-color: "grey";
+  border-width: 5px;
+  border-style: solid;
+  border-width: 50%;
+}
+.navbar{
+  margin-bottom: 0;
+  z-index: 9999;
+  border:0;
+  font-size: 14px !important;
+  letter-spacing: 4px;
+  line-height: 1.42857143 !important;
+  border-radius: 0;
+  background-color: #3585b7;
+}
+.navbar li a, .navbar .navbar-brand {
+    color: #000 !important;
+}
+
+
+
+
+.navbar-nav li a:hover, .navbar-nav li.active a {
+    color: #fff !important;
+    background-color: #003660 !important;
+}
+
+  .container-fluid {
+    padding: 60px 50px;}
+.navbar-brand{
+  margin:-14px;
+}
+.navbar-default .navbar-toggle {
+    border-color: transparent;
+    color: #3585b7 !important;
+    background-color: #3585b7;
+}
+.services{
+    background-color:#FFF;
+    text-align:left;
+    line-height: 130%;
+    padding:10px 30px;
+    }
+
+.services h2{
+    color:#000043;
+    text-align:center;
+    
+}
+
+.service{
+    background-color:#FFF;
+    line-height: 130%;
+    padding:10px 30px;
+}
+
+.service h2{
+    color:#000043;
+    text-align:center;
+    
+}
+
+.input-number-group {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.input-number-group input[type=number]::-webkit-inner-spin-button,
+.input-number-group input[type=number]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+}
+
+.input-number-group .input-group-button {
+    line-height: 30pt;
+    float:right;
+}
+
+.input-number-group .input-number {
+  width: 35px;
+  text-align: center;
+}
+
+
+
+.input-number-group .input-number-decrement,
+.input-number-group .input-number-increment {
+    border-radius: 25%;
+    border-width:2px;
+    border-style:solid;
+    text-align: center;
+    display: inline-block;
+    width: 20px;
+    background:#99b8d4 ;
+    color:#000043 ;
+    text-align: center;
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+.service p{
+    text-align: left;
+}
+
+#about{
+  background-color:#FFF;
+}
+#about h2{
+  color:#383838;
+  font-family: 'Josefin Sans';
+}
+#contact h2{
+  color:#383838;
+  font-family: 'Josefin Sans';
+}
+
+#banner h1{
+  color:  #bfccde;
+  font-family: "Josefin Sans";
+}
+#banner h2{
+  color:#E8E8E8;
+  font-family: "Josefin Sans";
+}
+
+.bg-banner  {
+   background: linear-gradient(to top, #003660 0%, #3585b7 100%);
+   padding-top:10px;
+   padding-bottom:10px;
+    max-height: 300px;
+}
+
+#bannerimg{
+    max-width:59%;
+    float:left;
+    max-height:300px;
+}
+
+  body {
+      font: 400 15px Lato, sans-serif;
+      line-height: 1.8;
+    }
+.bg-blue{
+  background-color:#003660;
+}
+
+.thumbnail img{
+  height:auto;
+  width:auto;
+  max-height:200px;
+  max-width:auto;
+ }
+
+.thumbnail{
+  border 1px solid #FFF;
+  border-radius:0;
+  transition: box-shadow 0.5s
+}
+
+.thumbnail:hover {
+    box-shadow: 0px 0px 50px #3585b7;
+}
+
+.slideanimabout{visibility:visible}
+.slideanim {visibility:hidden;}
+.slide {
+    /* The name of the animation */
+    animation-name: slide;
+    -webkit-animation-name: slide; 
+    /* The duration of the animation */
+    animation-duration: 1s; 
+    -webkit-animation-duration: 1s;
+    /* Make the element visible */
+    visibility: visible; 
+}
+
+#name{
+    width:50%;
+    float:right;
+}
+
+@keyframes slide {
+    0% {
+        opacity: 0;
+        transform: translateY(70%);
+    } 
+    100% {
+        opacity: 1;
+        transform: translateY(0%);
+    } 
+}
+@-webkit-keyframes slide {
+    0% {
+        opacity: 0;
+    } 
+    100% {
+        opacity: 1;
+        -webkit-transform: translateY(0%);
+    }
+}
+
+.leftcontainer{
+    width:50%;
+    float:left;
+}
+.leftcontainer img{
+    border-radius:30%;
+    background-color: white;
+    border-color:#99b8d4;
+    border-style:solid;
+    border-width:5pt;
+    max-width: 200px;
+    float:left;
+    margin:5px;
+}
+
+.rightcontainer{
+    width:50%;
+    float:right;
+}
+
+.rightcontainer img{
+    border-radius:30%;
+    background-color: white;
+    border-color:#99b8d4;
+    border-style:solid;
+    border-width:5pt;
+    max-width:200px;
+    float:left;
+    margin:5px
+}
+
+.rightcontainer select{
+    background-color: #99b8d4;
+    border-color: #000043;
+    border-width:medium;
+    margin-bottom: 10px;
+}
+
+#submitbutton{
+    margin-top: 50px;
+    height: 50px;
+    width:100px;
+    background-color: #99b8d4;
+    border-color: #000043;
+    margin-bottom: 25%
+}
+
+#formtext{
+    text-align: center;
+}
+
+.services h3{
+    font-size:30px;
+}
+
+
+#iphonefix{
+    max-width: 95%;
+}
+
+.socialmediamanagement img{
+    border-radius: 30%;
+    border-color:#99b8d4;
+    border-style:solid;
+    border-width: 5pt;
+    width:80%;
+}
+.social:hover {
+     -webkit-transform: scale(1.2);
+     -moz-transform: scale(1.2);
+  -o-transform: scale(1.2);
+      color:#3585b7;
+}
+#footertag{
+  color:#fff;
+}
+
+  .social{
+    color:#003660;
+}
