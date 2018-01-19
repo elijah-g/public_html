@@ -4,11 +4,11 @@
 <header>
     
 
-    <link rel="icon" href="/wp/img/logo.png">
+    <link rel="icon" href="/~s3679959/wp/img/logo.png">
     <link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css'>
     <link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css'>
 
-    <link type="text/css" rel='stylesheet' href="/moonboot.css">
+    <link type="text/css" rel='stylesheet' href="/~s3679959/moonboot.css">
 
 </header>
 
@@ -27,9 +27,9 @@
                 </div>
                 <div class="collapse navbar-collapse" id="myNavbar">
                     <ul class="nav navbar-nav navbar-left">
-                        <li><a href="/wp/a2/index.php">HOME</a></li>
+                        <li><a href="/~s3679959/wp/a2/index.php">HOME</a></li>
                         <li class="active"><a href="#">SERVICES</a></li>
-                        <li><a href="/wp/a2/login.php">LOGIN</a></li>
+                        <li><a href="/~s3679959/wp/a2/login.php">LOGIN</a></li>
                     </ul>
                 </div>
             </div>
@@ -38,7 +38,7 @@
             <!--Banner Container-->
             <div class="bg-banner container-fluid">
                 <div class="centerblock">
-                    <img id="bannerimg" src="/wp/img/moonbootwriting.png">
+                    <img id="bannerimg" src="/~s3679959/wp/img/moonbootwriting.png">
                     <i id='headerquote'>"Our service will excel beyond your expectations"</i>
                 </div>
             </div>
@@ -47,13 +47,13 @@
             <div class="centerblock services">
                 <h2><b>Services</b></h2>
                 <div class='leftcontainer'>
-                    <img src="/wp/img/webdevelopment.png">
+                    <img src="/~s3679959/wp/img/webdevelopment.png">
                     <h3>Personalised Web Development</h3>
                     <p class="main">A personalised website will give you the edge your business needs, whether it's one page with just with basic information or multiple pages with member login and item purchases. <b>Moonboot</b> provides world class websites at a fraction of the cost all styled to your specifications.</p>
                 </div>
                 <div class="rightcontainer">
                     <a href="service.php" alt="Web Development">
-            <img src ="/wp/img/screen-replacement.jpg">
+            <img src ="/~s3679959/wp/img/screen-replacement.jpg">
             <h3>iPhone Screen Replacement</h3>
             </a>
                     <p class="main">When your precious iPhone becomes comprimised <b>Moonboot</b> will have you back on your feet in no time. It's not plausable to live without a smart phone not to mention uncool. When life gives you lemons give Moonboot a call and we'll gladly make you some lemonade.</p>
