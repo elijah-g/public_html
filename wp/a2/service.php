@@ -7,7 +7,7 @@
     <link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css'>
     <link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css'>
 
-    <link type="text/css" rel='stylesheet' href="/moonboot.css">
+    <link type="text/css" rel='stylesheet' href="/~s3679959/moonboot.css">
 
 </header>
 
