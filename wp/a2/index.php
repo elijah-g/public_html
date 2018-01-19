@@ -26,8 +26,8 @@
                 <div class="collapse navbar-collapse" id="myNavbar">
                     <ul class="nav navbar-nav navbar-left">
                         <li class="active"><a href="#">HOME</a></li>
-                        <li><a href="/wp/a2/services.php">SERVICES</a></li>
-                        <li><a href="/wp/a2/login.php">LOGIN</a></li>
+                        <li><a href="~/wp/a2/services.php">SERVICES</a></li>
+                        <li><a href="~/wp/a2/login.php">LOGIN</a></li>
                     </ul>
                 </div>
             </div>
