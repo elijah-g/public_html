@@ -31,16 +31,27 @@ for ($i = 0; $i < 6; $i++){
 echo <<<OUTPUT
 <div class="centerblock container-fluid" id="about">
     <h3>Your Items:</h3><table>
+    <tr>
+    <th><b>Price</b></th>
+    <th><b>Name</b></th>
+    <th><b>Unit Price</b></th>
+    <th><b>Quantity</b></th>
+    </tr>
 OUTPUT;
 $pricetotal = 0;
 for ($i = 0; $i < count($cartContent); $i++) {
     $itemcost = $cartContent[$i]->Quantity * $cartContent[$i]->Price;
-    echo "<tr><th>Price</th><th>Name</th><th>Unit Price</th><th>Quantity</th>";
-    $pricetotal = $pricetotal + ($cartContent[$i]->Price * $cartContent[$i]->Quantity);
+    echo <<<OUTPUT
+    <tr><th>$itemcost</th>
+    <th>{$cartContent[$i]->Title}</th>
+    <th>{$cartContent[$i]->Price}</th>
+    <th>{$cartContent[$i]->Quantity}</th>
+    </tr>
+OUTPUT;
+$pricetotal = $pricetotal + ($cartContent[$i]->Price * $cartContent[$i]->Quantity);
        }
 
 ?>
-
     </table>
 </div>
 
