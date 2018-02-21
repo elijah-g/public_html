@@ -128,6 +128,8 @@
      color:#000043;
      text-align:center;
 }
+
+
  .input-number-group {
      display: -webkit-flex;
      display: -ms-flexbox;
@@ -147,6 +149,11 @@
      width: 35px;
      text-align: center;
 }
+
+ .input-group .input-number-group{
+
+
+ }
  .input-number-group .input-number-decrement, .input-number-group .input-number-increment {
      border-radius: 25%;
      border-width:2px;
@@ -160,6 +167,20 @@
      font-weight: bolder;
      cursor: pointer;
 }
+
+ .servicecontainer{
+     width:100%;
+     min-height: 200px;
+ }
+
+ .serviceitem{
+     border: 1px solid #000043;
+     border-radius: 10px;
+     overflow: hidden;
+
+
+ }
+
  .service p{
      text-align: left;
 }
@@ -281,6 +302,13 @@
      border-color: #000043;
      margin-bottom: 25% 
 }
+ #CheckOutButton{
+     height: 50px;
+     width:100px;
+     background-color: #99b8d4;
+     border-color: #000043;
+ }
+
  #formtext{
      text-align: center;
 }
@@ -305,6 +333,15 @@
 }
  #footertag{
      color:#fff;
+}
+ #toTop:visited{
+     color: #3585b7;
+
+ }
+
+.cart{
+    align: left;
+
 }
  .social{
      color:#003660;

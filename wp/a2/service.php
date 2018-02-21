@@ -6,7 +6,7 @@
     <link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css'>
     <link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css'>
 
-    <link type="text/css" rel='stylesheet' href="/~s3679959/moonboot.css">
+    <link type="text/css" rel='stylesheet' href="/moonboot.css">
 
 </header>
 
@@ -97,7 +97,7 @@
                     <hr>
                 </center>
             </div>
-            <footer id="footertag" class "container-fluid slideanim">
+            <footer id="footertag" class=container-fluid slideanim">
                 <a href="#home" title="To Top">
         <span class="glyphicon glyphicon-chevron-up"></span></a>
                 <h4>MoonBoot 2018 &copy<br>Designed and Created by Elijah Glass (s3679959)</h4>
