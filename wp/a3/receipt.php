@@ -1,6 +1,6 @@
 <?php
 session_start();
-$cartContent = $_SESSION["cartContent"];
+
 ?>
 
 <!doctype html>
@@ -88,7 +88,7 @@ for ($i = 0; $i < (int)$_SESSION["cartCount"]; $i++){
 }
 
 $fp = fopen("order.csv","w");
-lock($fp, LOCK_EX);
+flock($fp, LOCK_EX);
 for ($i = 0; $i < (int)$_SESSION["cartCount"]; $i++){
     foreach ($order[$i] as $dataitem){
     fputcsv($fp,$dataitem);}
