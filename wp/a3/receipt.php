@@ -7,7 +7,7 @@ $cartContent = $_SESSION["cartContent"];
 <html>
 <head>
     <title>Tax Invoice</title>
-    <link type="text/css" rel='stylesheet' href="/moonboot.css">
+    <link type="text/css" rel='stylesheet' href="/~s3679959/moonboot.css">
 </head>
 
 <body>

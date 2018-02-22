@@ -60,7 +60,6 @@ $_SESSION["ID$i"] = $cartContent[$i]->ID;
 $_SESSION["priceTotal"] = $priceTotal;
 echo "</table><br>";
 echo "<p id='ordertotal'>Order Total:  \$$priceTotal.00</p><br><br>";
-echo count($cartContent);
 echo <<<OUTPUT
 <div class="container-fluid">
 <a href="services.php"><input id="cancel" type="button" value="Cancel Purchase"></a>
