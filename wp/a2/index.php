@@ -33,7 +33,7 @@ DOCTYPE html>
                 <div class="collapse navbar-collapse" id="myNavbar">
                     <ul class="nav navbar-nav navbar-left">
                         <li class="active"><a href="#">HOME</a></li>
-                        <li><a href="/~s3679959/wp/a2/services.php">SERVICES</a></li>
+                        <li><a href="/~s3679959/wp/a3/services.php">SERVICES</a></li>
                         <li><a href="/~s3679959/wp/a2/login.php">LOGIN</a></li>
                     </ul>
                 </div>

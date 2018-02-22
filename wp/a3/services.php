@@ -12,7 +12,7 @@ function preshow($variable){
     echo "</pre>";
 }
 
-$fp = fopen("services.csv","r");
+$fp = fopen("/~s3679959/wp/a3/services.csv","r");
 flock($fp, LOCK_SH);
 $headings = fgetcsv($fp);
 while ($tryAlineRead = fgetcsv($fp)){
@@ -29,7 +29,7 @@ fclose($fp);
 
 <article id="about" class="centerblock container-fluid">
     <h2>Services</h2>
-    <form id="serviceform" action="Cart.php" method="post">
+    <form id="serviceform" action="/~s3679959/wp/a3/Cart.php" method="post">
 <?php
 foreach ($productTreeCSV as $ID => $item) {
     foreach ($productTreeCSV[$ID] as $oid => $details) {

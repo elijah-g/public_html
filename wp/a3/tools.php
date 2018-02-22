@@ -8,10 +8,10 @@ function top_module($pageTitle)
 
 <head>
     <title>$pageTitle</title>
-    <link rel="icon" href="/wp/img/logo.png">
+    <link rel="icon" href="/~s3679959/wp/img/logo.png">
     <link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css'>
     <link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css'>
-    <link type="text/css" rel='stylesheet' href="/moonboot.css">
+    <link type="text/css" rel='stylesheet' href="/~s3679959/moonboot.css">
     <link href="https://fonts.googleapis.com/css?family=Josefin+Sans" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
@@ -33,7 +33,7 @@ OUTPUT;
     if ($pageTitle == "MoonBoot") {
         echo <<<"OUTPUT"
         <li class="active"><a href="#">HOME</a></li>
-        <li><a href="/~s3679959/wp/a2/services.php">SERVICES</a></li>
+        <li><a href="/~s3679959/wp/a3/services.php">SERVICES</a></li>
         <li><a href="/~s3679959/wp/a2/login.php">LOGIN</a></li>
 OUTPUT;
     } elseif ($pageTitle == "Services" || $pageTitle == "My Cart" || $pageTitle == "Finalize Order") {
@@ -47,7 +47,7 @@ OUTPUT;
     {
         echo <<<"OUTPUT"
     <li><a href="/~s3679959/wp/a2/index.php">HOME</a></li>
-    <li><a href="/~s3679959/wp/a2/services.php">SERVICES</a></li>
+    <li><a href="/~s3679959/wp/a3/services.php">SERVICES</a></li>
     <li class="active"><a href="#">LOGIN</a></li>
 OUTPUT;
     }
