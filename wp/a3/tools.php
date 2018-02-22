@@ -1,6 +1,7 @@
 <?php
+session_start();
 function top_module($pageTitle)
-{
+    {
     echo <<<"OUTPUT"
 <!DOCTYPE html>
 <html lang="en">
@@ -35,7 +36,7 @@ OUTPUT;
         <li><a href="/~s3679959/wp/a2/services.php">SERVICES</a></li>
         <li><a href="/~s3679959/wp/a2/login.php">LOGIN</a></li>
 OUTPUT;
-    } elseif ($pageTitle == "Services") {
+    } elseif ($pageTitle == "Services" || $pageTitle == "My Cart" || $pageTitle == "Finalize Order") {
         echo <<<"OUTPUT"
     <li><a href="/~s3679959/wp/a2/index.php">HOME</a></li>
     <li class="active"><a href="#">SERVICES</a></li>
