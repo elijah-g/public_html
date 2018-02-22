@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8fc37e48-cd11-4295-a3f5-44def5c9a6ad" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/wp/a3/Cart.php" afterPath="$PROJECT_DIR$/wp/a3/Cart.php" />
       <change beforePath="$PROJECT_DIR$/wp/a3/receipt.php" afterPath="$PROJECT_DIR$/wp/a3/receipt.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -118,7 +117,7 @@
             <entry file="file://$PROJECT_DIR$/wp/a3/Cart.php">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="132">
-                  <caret line="63" column="9" lean-forward="false" selection-start-line="63" selection-start-column="9" selection-end-line="63" selection-end-column="9" />
+                  <caret line="43" column="4" lean-forward="false" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="4" />
                   <folding>
                     <marker date="1519312205580" expanded="true" signature="773:805" ph="..." />
                     <marker date="1519312205580" expanded="true" signature="773:821" ph="..." />
@@ -185,18 +184,18 @@
           <file leaf-file-name="receipt.php" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/wp/a3/receipt.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="162">
-                  <caret line="9" column="59" lean-forward="false" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
+                <state relative-caret-position="136">
+                  <caret line="23" column="52" lean-forward="false" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
                   <folding>
                     <element signature="n#style#0;n#img#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                    <marker date="1519312274987" expanded="true" signature="864:1317" ph="..." />
-                    <marker date="1519312274987" expanded="true" signature="889:1292" ph="..." />
-                    <marker date="1519312274987" expanded="true" signature="918:1015" ph="..." />
-                    <marker date="1519312274987" expanded="true" signature="1045:1086" ph="..." />
-                    <marker date="1519312274987" expanded="true" signature="1045:1266" ph="..." />
-                    <marker date="1519312274987" expanded="true" signature="1397:1436" ph="..." />
-                    <marker date="1519312274987" expanded="true" signature="1454:1494" ph="..." />
-                    <marker date="1519312274987" expanded="true" signature="1609:1734" ph="..." />
+                    <marker date="1519312363776" expanded="true" signature="874:1327" ph="..." />
+                    <marker date="1519312363776" expanded="true" signature="899:1302" ph="..." />
+                    <marker date="1519312363776" expanded="true" signature="928:1025" ph="..." />
+                    <marker date="1519312363776" expanded="true" signature="1055:1096" ph="..." />
+                    <marker date="1519312363776" expanded="true" signature="1055:1276" ph="..." />
+                    <marker date="1519312363776" expanded="true" signature="1407:1446" ph="..." />
+                    <marker date="1519312363776" expanded="true" signature="1464:1504" ph="..." />
+                    <marker date="1519312363776" expanded="true" signature="1619:1744" ph="..." />
                   </folding>
                 </state>
               </provider>
@@ -394,7 +393,7 @@
       <workItem from="1518699535766" duration="11353000" />
       <workItem from="1518770997702" duration="16970000" />
       <workItem from="1519028096446" duration="8890000" />
-      <workItem from="1519042579544" duration="64665000" />
+      <workItem from="1519042579544" duration="64754000" />
     </task>
     <task id="LOCAL-00001" summary="Assignment 3 final">
       <created>1519311639686</created>
@@ -417,11 +416,18 @@
       <option name="project" value="LOCAL" />
       <updated>1519312107448</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="&#10;pdated">
+      <created>1519312286628</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1519312286628</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110204000" />
+    <option name="totallyTimeSpent" value="110293000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-21" width="1932" height="1107" extended-state="4" />
@@ -479,7 +485,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Assignment 3 final" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="&#10;pdated" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;pdated" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -897,7 +904,7 @@
     <entry file="file://$PROJECT_DIR$/wp/a3/Cart.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
-          <caret line="63" column="9" lean-forward="false" selection-start-line="63" selection-start-column="9" selection-end-line="63" selection-end-column="9" />
+          <caret line="43" column="4" lean-forward="false" selection-start-line="43" selection-start-column="3" selection-end-line="43" selection-end-column="4" />
           <folding>
             <marker date="1519312205580" expanded="true" signature="773:805" ph="..." />
             <marker date="1519312205580" expanded="true" signature="773:821" ph="..." />
@@ -913,18 +920,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp/a3/receipt.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="59" lean-forward="false" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
+        <state relative-caret-position="136">
+          <caret line="23" column="52" lean-forward="false" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
           <folding>
             <element signature="n#style#0;n#img#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1519312274987" expanded="true" signature="864:1317" ph="..." />
-            <marker date="1519312274987" expanded="true" signature="889:1292" ph="..." />
-            <marker date="1519312274987" expanded="true" signature="918:1015" ph="..." />
-            <marker date="1519312274987" expanded="true" signature="1045:1086" ph="..." />
-            <marker date="1519312274987" expanded="true" signature="1045:1266" ph="..." />
-            <marker date="1519312274987" expanded="true" signature="1397:1436" ph="..." />
-            <marker date="1519312274987" expanded="true" signature="1454:1494" ph="..." />
-            <marker date="1519312274987" expanded="true" signature="1609:1734" ph="..." />
+            <marker date="1519312363776" expanded="true" signature="874:1327" ph="..." />
+            <marker date="1519312363776" expanded="true" signature="899:1302" ph="..." />
+            <marker date="1519312363776" expanded="true" signature="928:1025" ph="..." />
+            <marker date="1519312363776" expanded="true" signature="1055:1096" ph="..." />
+            <marker date="1519312363776" expanded="true" signature="1055:1276" ph="..." />
+            <marker date="1519312363776" expanded="true" signature="1407:1446" ph="..." />
+            <marker date="1519312363776" expanded="true" signature="1464:1504" ph="..." />
+            <marker date="1519312363776" expanded="true" signature="1619:1744" ph="..." />
           </folding>
         </state>
       </provider>

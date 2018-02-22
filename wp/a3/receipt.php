@@ -21,7 +21,7 @@ $cartContent = $_SESSION["cartContent"];
                 <table>
                     <tr>
                         <td class="title">
-                            <img src="/wp/img/moonbootwriting.png" style="width:100%; max-width:300px;">
+                            <img src="/~s3679959/wp/img/moonbootwriting.png" style="width:100%; max-width:300px;">
                         </td>
 
                         <td>
