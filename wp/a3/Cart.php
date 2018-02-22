@@ -1,6 +1,6 @@
 <?php
 session_start();
-include ("/~s3679959/wp/a3/tools.php");
+include ("tools.php");
 include_once("/home/eh1/e54061/public_html/wp/debug.php");
 top_module("My Cart");
 class cartItem
