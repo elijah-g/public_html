@@ -12,7 +12,7 @@ function preshow($variable){
     echo "</pre>";
 }
 
-$fp = fopen("/~s3679959/wp/a3/services.csv","r");
+$fp = fopen("services.csv","r");
 flock($fp, LOCK_SH);
 $headings = fgetcsv($fp);
 while ($tryAlineRead = fgetcsv($fp)){
