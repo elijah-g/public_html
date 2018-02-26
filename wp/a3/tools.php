@@ -87,13 +87,14 @@ OUTPUT;
                 <a href="#home" id="toTop" title="To Top">
         <span class="glyphicon glyphicon-chevron-up"></span></a>
                 <h4>MoonBoot 2018 &copy<br>Designed and Created by Elijah Glass (s3679959)</h4> 
+</footer>
 OUTPUT;
 include_once("/home/eh1/e54061/public_html/wp/debug.php");
         $html2 = <<<OUTPUT
-         </footer>
+         
         </div>
     </body>
-</html>
+    </html>
 OUTPUT;
         echo $html;
         echo $html2;
