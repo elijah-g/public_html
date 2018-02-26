@@ -38,7 +38,7 @@ OUTPUT;
 OUTPUT;
     } elseif ($pageTitle == "Services" || $pageTitle == "My Cart" || $pageTitle == "Finalize Order") {
         echo <<<"OUTPUT"
-    <li><a href="/~s3679959/wp/a2/index.php">HOME</a></li>
+    <li><a href="/~s3679959/wp/a3/index.php">HOME</a></li>
     <li class="active"><a href="#">SERVICES</a></li>
     <li><a href="/~s3679959/wp/a2/login.php">LOGIN</a></li>
 OUTPUT;
@@ -46,7 +46,7 @@ OUTPUT;
     elseif ($pageTitle == "Login")
     {
         echo <<<"OUTPUT"
-    <li><a href="/~s3679959/wp/a2/index.php">HOME</a></li>
+    <li><a href="/~s3679959/wp/a3/index.php">HOME</a></li>
     <li><a href="/~s3679959/wp/a3/services.php">SERVICES</a></li>
     <li class="active"><a href="#">LOGIN</a></li>
 OUTPUT;
