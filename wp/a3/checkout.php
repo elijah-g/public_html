@@ -8,11 +8,16 @@ top_module("Finalize Order");1
 // define variables and set to empty values
 $nameErr = $expErr = $mobileErr = $addressErr = $cardErr = "";
 $name = $cardExp = $cardNumber = $mobile = $address= $email ="";
-$nameErr= $_SESSION["nameErr"];
-$expErr = $_SESSION["expErr"];
-$mobileErr = $_SESSION["mobileErr"];
-$addressErr = $_SESSION["addressErr"];
-$cardErr = $_SESSION["addressErr"];
+if (isset($_SESSION["nameErr"])){
+$nameErr= $_SESSION["nameErr"];}
+if (isset($_SESSION["expErr"])){
+$expErr = $_SESSION["expErr"];}
+if (isset($_SESSION["mobileErr"])){
+$mobileErr = $_SESSION["mobileErr"];}
+if (isset($_SESSION["addressErr"])){
+$addressErr = $_SESSION["addressErr"];}
+if (isset($_SESSION["cardErr"])){
+$cardErr = $_SESSION["cardErr"];}
 
 ?>
 <div class="centerblock main" id="about">

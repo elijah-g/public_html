@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/wp/a3/checkout.php" line="66" />
+    <bookmark url="file://$PROJECT_DIR$/wp/a3/checkout.php" line="71" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8fc37e48-cd11-4295-a3f5-44def5c9a6ad" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/wp/a3/tools.php" afterPath="$PROJECT_DIR$/wp/a3/tools.php" />
+      <change beforePath="$PROJECT_DIR$/wp/a3/checkout.php" afterPath="$PROJECT_DIR$/wp/a3/checkout.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,11 +22,11 @@
     <splitter split-orientation="vertical" split-proportion="0.49445677">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="tools.php" pinned="false" current-in-tab="true">
+          <file leaf-file-name="tools.php" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/wp/a3/tools.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="72">
-                  <caret line="88" column="88" lean-forward="false" selection-start-line="88" selection-start-column="88" selection-end-line="88" selection-end-column="88" />
+                <state relative-caret-position="306">
+                  <caret line="101" column="66" lean-forward="true" selection-start-line="101" selection-start-column="66" selection-end-line="101" selection-end-column="66" />
                   <folding>
                     <marker date="1519635753444" expanded="true" signature="113:1353" ph="..." />
                     <marker date="1519635753444" expanded="true" signature="121:742" ph="..." />
@@ -90,14 +90,14 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="checkout.php" pinned="false" current-in-tab="false">
+          <file leaf-file-name="checkout.php" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/wp/a3/checkout.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="36">
-                  <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+                <state relative-caret-position="342">
+                  <caret line="19" column="33" lean-forward="false" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
                   <folding>
-                    <marker date="1519635681717" expanded="true" signature="1183:1206" ph="..." />
-                    <marker date="1519635681717" expanded="true" signature="1762:1785" ph="..." />
+                    <marker date="1519636089007" expanded="true" signature="1359:1382" ph="..." />
+                    <marker date="1519636089007" expanded="true" signature="1938:1961" ph="..." />
                   </folding>
                 </state>
               </provider>
@@ -169,10 +169,10 @@
             <entry file="file://$PROJECT_DIR$/wp/a3/checkout.php">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="342">
-                  <caret line="19" column="27" lean-forward="false" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+                  <caret line="24" column="27" lean-forward="false" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
                   <folding>
-                    <marker date="1519635681717" expanded="true" signature="1183:1206" ph="..." />
-                    <marker date="1519635681717" expanded="true" signature="1762:1785" ph="..." />
+                    <marker date="1519636089007" expanded="true" signature="1359:1382" ph="..." />
+                    <marker date="1519636089007" expanded="true" signature="1938:1961" ph="..." />
                   </folding>
                 </state>
               </provider>
@@ -243,11 +243,11 @@
         <option value="$PROJECT_DIR$/wp/a3/index.php" />
         <option value="$PROJECT_DIR$/wp/a3/services.php" />
         <option value="$PROJECT_DIR$/wp/a3/cart.php" />
-        <option value="$PROJECT_DIR$/wp/a3/checkout.php" />
         <option value="$PROJECT_DIR$/wp/a3/receiptcalc.php" />
         <option value="$PROJECT_DIR$/wp/a3/Cart.php" />
         <option value="$PROJECT_DIR$/wp/a3/receipt.php" />
         <option value="$PROJECT_DIR$/wp/a3/tools.php" />
+        <option value="$PROJECT_DIR$/wp/a3/checkout.php" />
       </list>
     </option>
   </component>
@@ -386,7 +386,7 @@
       <workItem from="1519633178678" duration="975000" />
       <workItem from="1519634367405" duration="204000" />
       <workItem from="1519634800604" duration="4000" />
-      <workItem from="1519634954444" duration="799000" />
+      <workItem from="1519634954444" duration="1135000" />
     </task>
     <task id="LOCAL-00001" summary="Assignment 3 final">
       <created>1519311639686</created>
@@ -528,11 +528,18 @@
       <option name="project" value="LOCAL" />
       <updated>1519635696400</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="&#10;pdated">
+      <created>1519635759269</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1519635759269</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="114668000" />
+    <option name="totallyTimeSpent" value="115004000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1932" height="1056" extended-state="4" />
@@ -680,8 +687,8 @@
         <state relative-caret-position="360">
           <caret line="20" column="27" lean-forward="false" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
           <folding>
-            <marker date="1519635681717" expanded="true" signature="1183:1206" ph="..." />
-            <marker date="1519635681717" expanded="true" signature="1762:1785" ph="..." />
+            <marker date="1519636089007" expanded="true" signature="1359:1382" ph="..." />
+            <marker date="1519636089007" expanded="true" signature="1938:1961" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1005,17 +1012,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp/a3/checkout.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-          <folding>
-            <marker date="1519635681717" expanded="true" signature="1183:1206" ph="..." />
-            <marker date="1519635681717" expanded="true" signature="1762:1785" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp/a3/receiptcalc.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
@@ -1060,8 +1056,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp/a3/tools.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="88" column="88" lean-forward="false" selection-start-line="88" selection-start-column="88" selection-end-line="88" selection-end-column="88" />
+        <state relative-caret-position="306">
+          <caret line="101" column="66" lean-forward="true" selection-start-line="101" selection-start-column="66" selection-end-line="101" selection-end-column="66" />
           <folding>
             <marker date="1519635753444" expanded="true" signature="113:1353" ph="..." />
             <marker date="1519635753444" expanded="true" signature="121:742" ph="..." />
@@ -1086,6 +1082,17 @@
             <marker date="1519635753444" expanded="true" signature="4197:4446" ph="{...}" />
             <marker date="1519635753444" expanded="true" signature="4239:4438" ph="{...}" />
             <marker date="1519635753444" expanded="true" signature="4370:4428" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp/a3/checkout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="33" lean-forward="false" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+          <folding>
+            <marker date="1519636089007" expanded="true" signature="1359:1382" ph="..." />
+            <marker date="1519636089007" expanded="true" signature="1938:1961" ph="..." />
           </folding>
         </state>
       </provider>
