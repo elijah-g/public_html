@@ -89,13 +89,14 @@ OUTPUT;
                 <h4>MoonBoot 2018 &copy<br>Designed and Created by Elijah Glass (s3679959)</h4> 
 OUTPUT;
 include_once("/home/eh1/e54061/public_html/wp/debug.php");
-        echo <<<OUTPUT
+        $html2 = <<<OUTPUT
          </footer>
         </div>
     </body>
 </html>
 OUTPUT;
         echo $html;
+        echo $html2;
     }
 
 function javascript_scroll(){
