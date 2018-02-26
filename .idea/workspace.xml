@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8fc37e48-cd11-4295-a3f5-44def5c9a6ad" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/wp/a3/tools.php" afterPath="$PROJECT_DIR$/wp/a3/tools.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -145,8 +144,8 @@
           <file leaf-file-name="moonboot.css" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/moonboot.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="2988">
-                  <caret line="166" column="1" lean-forward="false" selection-start-line="166" selection-start-column="1" selection-end-line="166" selection-end-column="1" />
+                <state relative-caret-position="132">
+                  <caret line="452" column="11" lean-forward="false" selection-start-line="452" selection-start-column="2" selection-end-line="452" selection-end-column="11" />
                   <folding />
                 </state>
               </provider>
@@ -197,7 +196,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>footertag</find>
       <find>java</find>
       <find>footer</find>
       <find>form</find>
@@ -227,6 +225,7 @@
       <find>tools</find>
       <find>php</find>
       <find>echo</find>
+      <find>footertag</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -385,7 +384,7 @@
       <workItem from="1519028096446" duration="8890000" />
       <workItem from="1519042579544" duration="66391000" />
       <workItem from="1519631881057" duration="756000" />
-      <workItem from="1519633178678" duration="707000" />
+      <workItem from="1519633178678" duration="756000" />
     </task>
     <task id="LOCAL-00001" summary="Assignment 3 final">
       <created>1519311639686</created>
@@ -471,11 +470,18 @@
       <option name="project" value="LOCAL" />
       <updated>1519633765646</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="&#10;pdated">
+      <created>1519633892065</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1519633892065</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="113393000" />
+    <option name="totallyTimeSpent" value="113442000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-21" width="1932" height="1107" extended-state="4" />
@@ -899,14 +905,6 @@
     <entry file="file://$PROJECT_DIR$/wp/a2/test.php" />
     <entry file="file://$PROJECT_DIR$/wp/a2/test.php" />
     <entry file="file://$PROJECT_DIR$/wp/a3/service.csv" />
-    <entry file="file://$PROJECT_DIR$/moonboot.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2988">
-          <caret line="166" column="1" lean-forward="false" selection-start-line="166" selection-start-column="1" selection-end-line="166" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp/a3/services.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -999,6 +997,14 @@
             <marker date="1519311945023" expanded="true" signature="1057:1102" ph="..." />
             <marker date="1519311945023" expanded="true" signature="1244:1879" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moonboot.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="452" column="11" lean-forward="false" selection-start-line="452" selection-start-column="2" selection-end-line="452" selection-end-column="11" />
+          <folding />
         </state>
       </provider>
     </entry>
