@@ -79,12 +79,7 @@ OUTPUT;
                         <a target='_blank' href="https://plus.google.com/+Moonboottech "><i id="social-gp " class="fa fa-google-plus-square fa-3x social "></i></a>
 
                         <a href="mailto:admin@moonboottech.com "><i id="social-em " class="fa fa-envelope-square fa-3x social "></i></a>
-
-                   
-OUTPUT;
-        include_once("/home/eh1/e54061/public_html/wp/debug.php");
-        echo <<<OUTPUT
-         </div>
+</div>
                     <hr>
                 </center>
             </div>
@@ -92,7 +87,10 @@ OUTPUT;
                 <a href="#home" id="toTop" title="To Top">
         <span class="glyphicon glyphicon-chevron-up"></span></a>
                 <h4>MoonBoot 2018 &copy<br>Designed and Created by Elijah Glass (s3679959)</h4> 
-</footer>
+OUTPUT;
+include_once("/home/eh1/e54061/public_html/wp/debug.php");
+        echo <<<OUTPUT
+         </footer>
         </div>
     </body>
 </html>
