@@ -1,7 +1,6 @@
 <?php
 session_start();
 include ("tools.php");
-include_once("/home/eh1/e54061/public_html/wp/debug.php");
 top_module("Finalize Order");1
 
 ?>
