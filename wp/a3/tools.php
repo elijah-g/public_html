@@ -89,7 +89,6 @@ OUTPUT;
          <p>       
 
 OUTPUT;
-include_once("/home/eh1/e54061/public_html/wp/debug.php");
         $html2 = <<<OUTPUT
         </p>
          <h4>MoonBoot 2018 &copy<br>Designed and Created by Elijah Glass (s3679959)</h4> 
@@ -99,6 +98,7 @@ include_once("/home/eh1/e54061/public_html/wp/debug.php");
     </html>
 OUTPUT;
         echo $html;
+        include_once("/home/eh1/e54061/public_html/wp/debug.php");
         echo $html2;
     }
 
